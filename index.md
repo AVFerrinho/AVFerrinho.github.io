@@ -1,6 +1,7 @@
-<head>    
-<title>My First Site!</title>  
+---
+title:Main Page
+---
 </head>  
     <body>    
-        <p>I created my first web page using GitHub Pages! </p>
+        I created my first web page using GitHub Pages!
     </body>
