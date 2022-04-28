@@ -1,4 +1,4 @@
-remote-theme: kross-jekyll
+remote-theme: dactl
 markdown: kramdown
 title: Ocelot's homepage
 description: Bookmark this to keep an eye on my data viz playground & other projects updates!
